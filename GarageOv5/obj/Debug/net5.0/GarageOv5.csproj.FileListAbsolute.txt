@@ -1,0 +1,16 @@
+C:\Users\edwar\source\repos\GarageOv5\bin\Debug\net5.0\GarageOv5.exe
+C:\Users\edwar\source\repos\GarageOv5\bin\Debug\net5.0\GarageOv5.deps.json
+C:\Users\edwar\source\repos\GarageOv5\bin\Debug\net5.0\GarageOv5.runtimeconfig.json
+C:\Users\edwar\source\repos\GarageOv5\bin\Debug\net5.0\GarageOv5.runtimeconfig.dev.json
+C:\Users\edwar\source\repos\GarageOv5\bin\Debug\net5.0\GarageOv5.dll
+C:\Users\edwar\source\repos\GarageOv5\bin\Debug\net5.0\ref\GarageOv5.dll
+C:\Users\edwar\source\repos\GarageOv5\bin\Debug\net5.0\GarageOv5.pdb
+C:\Users\edwar\source\repos\GarageOv5\obj\Debug\net5.0\GarageOv5.csprojAssemblyReference.cache
+C:\Users\edwar\source\repos\GarageOv5\obj\Debug\net5.0\GarageOv5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwar\source\repos\GarageOv5\obj\Debug\net5.0\GarageOv5.AssemblyInfoInputs.cache
+C:\Users\edwar\source\repos\GarageOv5\obj\Debug\net5.0\GarageOv5.AssemblyInfo.cs
+C:\Users\edwar\source\repos\GarageOv5\obj\Debug\net5.0\GarageOv5.csproj.CoreCompileInputs.cache
+C:\Users\edwar\source\repos\GarageOv5\obj\Debug\net5.0\GarageOv5.dll
+C:\Users\edwar\source\repos\GarageOv5\obj\Debug\net5.0\ref\GarageOv5.dll
+C:\Users\edwar\source\repos\GarageOv5\obj\Debug\net5.0\GarageOv5.pdb
+C:\Users\edwar\source\repos\GarageOv5\obj\Debug\net5.0\GarageOv5.genruntimeconfig.cache
